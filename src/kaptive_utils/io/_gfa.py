@@ -1,5 +1,5 @@
 from kaptive_utils.io._base import _Handle, SeqRecord
-from kaptive_utils.lib.graph import Edge
+from kaptive_utils.core.graph import Edge
 
 
 class GfaReader(_Handle):
